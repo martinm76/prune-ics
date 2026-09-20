@@ -1,5 +1,6 @@
 # prune-ics
 TL;DR : Python script to remove older events from a large .ics file and/or clean up HTML and linebreaks in HTML mode. Primarily made to keep calendars below 1 MB for Google Calendar import. More details below.
+If you're planning on working on HTML mode .ics files from All-In One Event Calendar, remmeber to change no_html=true to no_html=false in the download URL.
 
 # iCalendar Pruner
 
